@@ -20,7 +20,7 @@ namespace EmailRazorPages.Pages
         {
             Message = "Your contact page.";
         }
-//comment
+
 
         public async Task<IActionResult> OnPostAsync()
         {
