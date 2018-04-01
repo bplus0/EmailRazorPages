@@ -1,0 +1,10 @@
+/Users/boneill/Development/CoreApps/EmailProjectCode/EmailRazorPages/bin/Debug/netcoreapp2.0/EmailRazorPages.deps.json
+/Users/boneill/Development/CoreApps/EmailProjectCode/EmailRazorPages/bin/Debug/netcoreapp2.0/EmailRazorPages.runtimeconfig.json
+/Users/boneill/Development/CoreApps/EmailProjectCode/EmailRazorPages/bin/Debug/netcoreapp2.0/EmailRazorPages.runtimeconfig.dev.json
+/Users/boneill/Development/CoreApps/EmailProjectCode/EmailRazorPages/bin/Debug/netcoreapp2.0/EmailRazorPages.dll
+/Users/boneill/Development/CoreApps/EmailProjectCode/EmailRazorPages/bin/Debug/netcoreapp2.0/EmailRazorPages.pdb
+/Users/boneill/Development/CoreApps/EmailProjectCode/EmailRazorPages/obj/Debug/netcoreapp2.0/EmailRazorPages.csproj.CoreCompileInputs.cache
+/Users/boneill/Development/CoreApps/EmailProjectCode/EmailRazorPages/obj/Debug/netcoreapp2.0/EmailRazorPages.AssemblyInfoInputs.cache
+/Users/boneill/Development/CoreApps/EmailProjectCode/EmailRazorPages/obj/Debug/netcoreapp2.0/EmailRazorPages.AssemblyInfo.cs
+/Users/boneill/Development/CoreApps/EmailProjectCode/EmailRazorPages/obj/Debug/netcoreapp2.0/EmailRazorPages.dll
+/Users/boneill/Development/CoreApps/EmailProjectCode/EmailRazorPages/obj/Debug/netcoreapp2.0/EmailRazorPages.pdb
